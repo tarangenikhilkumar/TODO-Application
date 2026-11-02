@@ -1,0 +1,17 @@
+# React / Node
+node_modules/
+dist/
+.env
+.env.*
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
